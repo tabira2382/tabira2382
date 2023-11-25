@@ -1,5 +1,6 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tabira2382)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tabira2382&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
